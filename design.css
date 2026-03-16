@@ -14,6 +14,11 @@
     font-weight: bolder;
 }
 
+.nav-logo {
+    height: 40px;
+    width: auto;
+}
+
 .social-links {
     display: flex;
     gap: 20px;
